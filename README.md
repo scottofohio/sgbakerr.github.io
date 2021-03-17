@@ -1,3 +1,3 @@
+#I am scott baker and this is my github page.
 
-### Welcome to my Github Web Page
 ![Visitor Count](https://profile-counter.glitch.me/sgbakerr/count.svg)
