@@ -1,3 +1,2 @@
-# I am scott baker and this is my github page.
+# I am scott baker and this is my [github page.](https://sgbakerr.github.io)
 
-![Visitor Count](https://profile-counter.glitch.me/sgbakerr/count.svg)
